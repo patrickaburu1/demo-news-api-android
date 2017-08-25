@@ -29,7 +29,6 @@ import java.util.List;
 import patrickcom.patto.task.Network.AppStatus;
 import patrickcom.patto.task.R;
 import patrickcom.patto.task.adapter.AllArticleAdapter;
-import patrickcom.patto.task.adapter.ArticlesAdapter;
 import patrickcom.patto.task.model.Article;
 
 import static com.android.volley.VolleyLog.TAG;

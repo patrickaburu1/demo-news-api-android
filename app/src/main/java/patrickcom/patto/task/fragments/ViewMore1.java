@@ -1,7 +1,6 @@
 package patrickcom.patto.task.fragments;
 
 
-import android.app.Activity;
 import android.app.ProgressDialog;
 import android.os.Bundle;
 import android.os.Handler;

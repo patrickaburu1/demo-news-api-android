@@ -27,7 +27,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 import patrickcom.patto.task.R;
-import patrickcom.patto.task.adapter.ArticlesAdapter;
 import patrickcom.patto.task.adapter.TechSourcesAdapter;
 import patrickcom.patto.task.model.Source;
 
